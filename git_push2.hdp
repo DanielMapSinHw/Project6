@@ -1,0 +1,11 @@
+[hdl]
+git_push2_lib = $HDS_PROJECT_DIR\git_push2_lib\hdl
+[hds]
+git_push2_lib = $HDS_PROJECT_DIR\git_push2_lib\hds
+[hds_settings]
+default_library = git_push2_lib
+version = 3
+[library_type]
+git_push2_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
